@@ -1,1 +1,15 @@
 
+https://github.com/zhuimengqq/cantools/files/3315130/cantools-release-0.25.for.windows.zip
+
+很感谢aheit的工作和即时返修bug，鉴于有部分Windows用户
+我尝试采用cygwin将其编译到windows下，它成功了，也是尽
+个人一点微薄之力，分享给大家，谢谢。 
+
+
+I am very grateful for the work of aheit, continuous improvement it.
+becuase there are some Windows users,I tried to compile it to 
+windows using cygwin. It succeeded. It is a little effort to share 
+with everyone, thank you. 
+
+ver: cantools-release-0.25
+                                               zhuimengqq  2019/6/21
